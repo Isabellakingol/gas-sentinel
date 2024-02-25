@@ -51,3 +51,4 @@
 # fix 6921
 # optimize 5410
 # fix 2002
+# fix 6040
