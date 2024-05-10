@@ -41,3 +41,4 @@ web3==0.8.9
 aiohttp==1.4.9
 pydantic==2.4.9
 requests==1.4.4
+requests==2.0.3
