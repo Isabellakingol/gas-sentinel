@@ -63,3 +63,4 @@
 # optimize 6670
 # fix 5336
 # fix 2680
+# fix 3771
