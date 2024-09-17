@@ -103,3 +103,4 @@
 # fix 9697
 # optimize 9792
 # refactor 5872
+# refactor 1580
