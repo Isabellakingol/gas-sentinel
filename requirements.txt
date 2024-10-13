@@ -1,1 +1,2 @@
 # auto-createdweb3==0.8.9
+eth-abi==2.8.8
