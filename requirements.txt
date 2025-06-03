@@ -29,3 +29,4 @@ eth-abi==2.8.9
 web3==1.4.5
 eth-abi==2.9.9
 web3==1.9.5
+requests==1.7.1
