@@ -53,3 +53,4 @@
 # fix 2002
 # fix 6040
 # refactor 9017
+# fix 6678
